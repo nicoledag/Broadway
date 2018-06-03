@@ -3,29 +3,35 @@
 body {
   font-family: Helvetica, sans-serif;
   text-align: center;
-
 }
 
-h1 {
-  font-size: 70px;
-  font-weight: bold;
+
+.main {
+  background-image: url("/Users/nicoledagnenica/codecademy/broadway/resources/images/the-flatiron-building.png");
   color: white;
-  Background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
+}
+
+.main h1 {
+  font-size: 70px;
+}
+
+.btn-nav {
+  font-size: 18px;
+  color: white;
+
+}
+
+.supporting {
 
 }
 
 
+.supporting-item {
+
+
+}
 
 .footer {
   background-color: dimgray;
+  color: white;
 }
-
-p {
-
-  display: block;
-}
-
-
-
-ul {
-  list-style-type: none;
