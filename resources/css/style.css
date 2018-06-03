@@ -6,32 +6,44 @@ body {
 }
 
 
-.main {
+.hero {
   background-image: url("/Users/nicoledagnenica/codecademy/broadway/resources/images/the-flatiron-building.png");
   color: white;
 }
 
-.main h1 {
+.hero h1 {
   font-size: 70px;
 }
 
 .btn-nav {
   font-size: 18px;
   color: white;
-
 }
 
-.supporting {
-
+.supporting h2 {
+  font-size: 32px;
 }
 
-
-.supporting-item {
-
-
+.supporting-item h3 {
+  font-size: 23px;
 }
+
+.supporting-item p {
+    font-size: 14px;
+  }
+
+
+.hero h3 {
+  font-size:23px;
+}
+
 
 .footer {
   background-color: dimgray;
   color: white;
+}
+
+.footer p {
+  font-size: 11px;
+  text-align: left;
 }
